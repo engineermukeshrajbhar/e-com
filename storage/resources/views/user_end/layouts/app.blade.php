@@ -228,7 +228,7 @@
                 <div class="row">
                     <div class="col-12 mt-3">
                         <div class="copy-right text-center">
-                            <p>Copyright &copy; 2024 LaravelECOM. All Rights Reserved.</p>
+                            <p>Copyright &copy; 2025 LaravelECOM. All Rights Reserved.</p>
                         </div>
                     </div>
                 </div>
